@@ -1,0 +1,18 @@
+Starting Dynare (version 5.1).
+Calling Dynare with arguments: none
+Starting preprocessing of the model file ...
+Substitution of exo leads: added 1 auxiliary variables and equations.
+Found 3 equation(s).
+Evaluating expressions...done
+Computing static model derivatives (order 1).
+Computing dynamic model derivatives (order 2).
+Processing outputs ...
+done
+Preprocessing completed.
+
+
+STEADY-STATE RESULTS:
+
+c               		 1.87509
+k               		 14.8392
+Total computing time : 0h00m00s
